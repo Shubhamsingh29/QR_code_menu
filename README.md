@@ -1,2 +1,8 @@
-# QR_code_menu
-it is just scan the qr code and a menu will open
+# Restaurant Landing Page
+
+- Used bootstrap tools & own styles.
+- Implemented responsive template.
+
+👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
+
+![Demo](img/demo.gif)
